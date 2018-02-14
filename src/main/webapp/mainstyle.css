@@ -1,0 +1,28 @@
+body {
+    padding: 25px;
+}
+
+h1 {
+    color: #808080;
+}
+
+h3 {
+    color: #999999;
+}
+
+
+#statusText {
+    clear: both;
+}
+
+#taskList {
+    margin-bottom: 10px;
+}
+
+#saveTaskForm div{
+    margin-bottom: 15px;
+}
+
+.task {
+    color: blue;
+}
